@@ -12,5 +12,6 @@
 
 - React
 - TypeScript
+- Mechanical keyboards
 - Unity game development
 - Visual Studio Code extension development
