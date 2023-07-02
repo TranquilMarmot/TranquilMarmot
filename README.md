@@ -5,6 +5,7 @@
 - 👨🏼‍💻Check out my website: https://nate.moore.codes/
 - 📮 Send me some email: nate@moore.codes
 - 💼 Find me on LinkedIn for professional things: https://www.linkedin.com/in/nate-moore/
+- 🐘 Find me on Mastodon for federated things: <a rel="me" href="https://hachyderm.io/@TranquilMarmot">https://hachyderm.io/@TranquilMarmot</a>
 - 🐣 Find me Twitter for less professional things: https://twitter.com/TranquilMarmot
 - 🕵️‍♂️ Send me encrypted messages on Keybase: https://keybase.io/tranquilmarmot
 
