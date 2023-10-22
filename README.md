@@ -7,7 +7,6 @@
 - 💼 Find me on LinkedIn for professional things: https://www.linkedin.com/in/nate-moore/
 - 🐘 Find me on Mastodon for federated things: https://hachyderm.io/@TranquilMarmot
 - 🐣 Find me Twitter for less professional things: https://twitter.com/TranquilMarmot
-- 🕵️‍♂️ Send me encrypted messages on Keybase: https://keybase.io/tranquilmarmot
 
 #### 💬 Let's talk about...
 
