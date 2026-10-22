@@ -2,10 +2,6 @@
 
 ## https://codeberg.org/TranquilMarmot
 
-I have moved off of GitHub and all Microsoft products where possible and I encourage you to do the same.
-
-Switch to Linux, use Codeberg or self-host Forgejo instead of GitHub, don't buy anything Xbox or Copilot. You can do it, I believe in you!
-
 ---
 
 #### ✨Hope you're well✨
