@@ -24,7 +24,6 @@ Currently working on:
 
 #### 💬 Let's talk about...
 
-- Divesting from big tech and opting out of surveillance capitalism
 - Books
 - Godot game development
 - Mechanical keyboards
